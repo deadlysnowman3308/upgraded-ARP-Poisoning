@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 from scapy.all import *
-#from past.builtins import xrange
 import os, sys
 from os import system
 from termcolor import colored, cprint
