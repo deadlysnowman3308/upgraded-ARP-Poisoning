@@ -1,7 +1,7 @@
 # upgraded-ARP-Poisoning
 
 ### After running this tool, wait for 1-2 minutes then automatically your Internet will be disconnected !!
-### Also all connected devices also can't connect to internet
+### All connected devices also can't connect to the internet.
 
 <br>
 
